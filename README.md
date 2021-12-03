@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nykfeng
 - 👀 I’m interested in becoming a web developer~!
-- 🌱 I’m currently learning JavaScript, PHP, jQuery.
+- 🌱 I’m currently learning JavaScript, Nodejs, Sass, SQL, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
