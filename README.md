@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nykfeng
-- 👀 I’m interested in becoming a web developer~!
-- 🌱 I’m currently learning JavaScript, Nodejs, Sass, SQL, Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a software engineer~!
+- 🌱 I’m currently building real world projects to hone my skills.
+
 
 <!---
 nykfeng/nykfeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
