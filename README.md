@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nykfeng
 - 👀 I’m a software engineer~!
-- 🌱 I’m currently building real world projects to hone my skills.
+- 🌱 I’m currently building different real world projects to hone my skills.
 
 
 <!---
