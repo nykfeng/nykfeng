@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nykfeng
-- 👀 I’m a software engineer~!
-- 🌱 I’m currently building different real world projects to hone my skills.
+- 👀 I’m a full-stack Javascript developer~!
+- 🌱 I have a passion for learning new things and skills that I could use to create cool, practical and productive tools for everyday life and work.
 
 
 <!---
